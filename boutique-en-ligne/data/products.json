@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Bracelet Or",
+        "category": "Bracelets",
+        "subcategory": "Or",
+        "price": 100,
+        "stock": 20,
+        "image": "images/bracelet_or.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Collier Argent",
+        "category": "Colliers",
+        "subcategory": "Argent",
+        "price": 120,
+        "stock": 15,
+        "image": "images/collier_argent.jpg"
+      }
+    ]
+  }
+  
